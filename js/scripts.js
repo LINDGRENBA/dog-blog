@@ -8,4 +8,8 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("light1");
   });
+
+  $("p").click(function() {
+    $("p").addClass("highlight");
+  });
 });
