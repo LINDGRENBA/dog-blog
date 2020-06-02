@@ -1,3 +1,7 @@
+body {
+  padding: 20px;
+}
+
 h1 {
   color: hotpink;
   font-family: 'Times New Roman';
@@ -12,14 +16,12 @@ img {
   height: 200px;
 }
 
-.green-background {
-  background-color: green;
+.dark1 {
+  background-color:black;
+  color: aliceblue;
 }
 
-.yellow-background {
-  background-color: yellow;
-}
-
-.red-background {
-  background-color: red;
+.light1 {
+  background-color: whitesmoke;
+  color: black;
 }

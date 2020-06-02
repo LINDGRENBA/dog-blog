@@ -1,16 +1,11 @@
 $(document).ready(function() {
-  $("button#green").click(function() {
+  $("button#dark-theme").click(function() {
     $("body").removeClass();
-    $("body").addClass("green-background");
+    $("body").addClass("dark1");
   });
 
-  $("button#yellow").click(function() {
+  $("button#light-theme").click(function() {
     $("body").removeClass();
-    $("body").addClass("yellow-background");
-  });
-
-  $("button#red").click(function() {
-    $("body").removeClass();
-    $("body").addClass("red-background");
+    $("body").addClass("light1");
   });
 });
