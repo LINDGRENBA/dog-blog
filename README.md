@@ -1,12 +1,12 @@
 # My Dog's Blog
 
-#### CSS practice for Epicodus, 05.27.2020
+#### CSS practice for Epicodus, 06.02.2020
 
-#### By Brittany Lindgren and Ruthie Newman
+#### By Brittany Lindgren, Ruthie Newman, and Nikolas Kososik
 
 ## Description
 
-The purpose of this project is to practice linking a CSS file to html and adding styles.
+The purpose of this project is to practice linking a CSS file to html and adding styles and to use jQuery to allow the user to change the theme of the page to suit their liking.
 
 ## Setup/Installation Requirements
 
@@ -28,6 +28,8 @@ Please feel free to contact me through GitHub (username: LINDGRENBA) with any qu
 
 * HTML
 * CSS
+* JavaScript
+* jQuery
 
 ### License
 
